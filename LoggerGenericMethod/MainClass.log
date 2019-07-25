@@ -1,0 +1,5 @@
+02/07/2019 11:29:S PM - MainClass - INFO - Info Message
+02/07/2019 11:29:S PM - MainClass - DEBUG - Debug Message
+02/07/2019 11:29:S PM - MainClass - WARNING - Warning Message
+02/07/2019 11:29:S PM - MainClass - ERROR - Error Message
+02/07/2019 11:29:S PM - MainClass - CRITICAL - Critical Message
